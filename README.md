@@ -1,16 +1,29 @@
-### Hi there 👋
+```javascript
+const OmidAghaei = {
+    about: ["Currently Front-end Engineer", "Formerly Full-stack Developer"],
+    education: ["M.D Computer Engneering"],
+    technologies: {
+        frontEnd: {
+            html: ["HTML5"],
+            css: ["CSS3", "TailwindCSS", "BootStrap", "DaisyUI", "SASS"],
+            js: ["Vue.js", "NuxtJs"],
+        },
+        backEnd: {
+            js: ["NodeJS", "NestJS", "Express"],
+        },
+        devOps: "Docker🐳", "Nginx", "Git"],
+        databases: ["mongo", "MySql", "sqlite"]
+    },
+   LinkedIn: "https://www.linkedin.com/in/omid-aghaei"
+};
+```
 
-<!--
-**omid-aghaei/omid-aghaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+🕑︎ Time Zone: Asia/Tehran
 
-Here are some ideas to get you started:
+🔥 Editors: 
+VSCode                  █████████████████████████   100.00 % 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Operating System: 
+Linux                   █████████████████████████   100.00 % 
+```
