@@ -4,15 +4,16 @@ const OmidAghaei = {
     education: ["M.D Computer Engneering"],
     technologies: {
         frontEnd: {
-            html: ["HTML5"],
-            css: ["CSS3", "TailwindCSS", "BootStrap", "DaisyUI", "SASS"],
-            js: ["Vue.js", "NuxtJs"],
+            js: ["Vue.js🏆", "NuxtJs🎖️", "React🥇", "NextJs🥈", "Astro🏅"],
+            css: ["CSS3⛏️", "TailwindCSS🛠️", "BootStrap🗡️", "DaisyUI🪓", "SASS🛡️"],
+            html: ["HTML5🪩", "Web APIs🧩"],
         },
         backEnd: {
-            js: ["NodeJS", "NestJS", "Express"],
+            js: ["NodeJS🎉", "NestJS🎊", "Express✨"],
+            php: ["CodeIgniter🎆", "Laravel🎇"],
         },
-        devOps: "Docker🐳", "Nginx", "Git"],
-        databases: ["mongo", "MySql", "sqlite"]
+        devOps: "Docker🐳", "Nginx🥊", "Git🎯"],
+        databases: ["mongo📃", "MySql📜", "sqlite"]
     },
    LinkedIn: "https://www.linkedin.com/in/omid-aghaei"
 };
