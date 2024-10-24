@@ -18,13 +18,6 @@ const OmidAghaei = {
    LinkedIn: "https://www.linkedin.com/in/omid-aghaei"
 };
 ```
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-🔥 Editors: 
-VSCode                  █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                   █████████████████████████   100.00 % 
-```
+![](https://github-readme-streak-stats.herokuapp.com/?user=omid-aghaei&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=omid-aghaei&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omid-aghaei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
