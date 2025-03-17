@@ -1,6 +1,6 @@
 ```javascript
 const OmidAghaei = {
-    about: ["Currently Front-end Engineer", "Formerly Full-stack Developer"],
+    about: ["Full-stack Engineer", "Mostly Front-end Engineer"],
     education: ["M.D Computer Engneering"],
     technologies: {
         frontEnd: {
